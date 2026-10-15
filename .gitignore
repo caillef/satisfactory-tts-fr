@@ -1,0 +1,8 @@
+.env
+cards-extracted/
+cards-translated/
+__pycache__/
+*.pyc
+translation-progress.json
+fonts/
+icons/
